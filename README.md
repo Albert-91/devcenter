@@ -67,3 +67,8 @@
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
 
+### REST API
+
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Thoughts on RESTful API Design](http://restful-api-design.readthedocs.org/en/latest/)
+
