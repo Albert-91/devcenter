@@ -17,6 +17,23 @@
 * [Pro Git](https://git-scm.com/book)
 
 
+## Blogs
+
+* [And then it crashed](http://blog.etianen.com/) - Programming the web with Python, Django and Javascript.
+* [Charles Leifer](http://charlesleifer.com/blog/)
+* [Coding Horror](http://blog.codinghorror.com/) - Programming and human factors.
+* [Everything I know about Python...](http://www.jeffknupp.com/)
+* [Inside the Head of PyDanny](http://pydanny.com/)
+* [Jacob Kaplan-Moss](http://jacobian.org/writing/) - Blog one of Django core contributors.
+* [Kent Beck](http://www.threeriversinstitute.org/blog/)
+* [Martin Fowler](http://martinfowler.com/)
+* [Randall Degges](http://www.rdegges.com/) - Random Thoughts of a Happy Programmer.
+* [Revolution Systems Blog](http://www.revsys.com/blog/)
+* [Robert C. Martin](http://blog.8thlight.com/uncle-bob/archive.html)
+* [Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/)
+* [Vincent Driessen](http://nvie.com/)
+
+
 ## Books
 
 * [The Zen Programmer](http://www.zenprogrammer.org/)
