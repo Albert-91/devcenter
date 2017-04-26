@@ -55,3 +55,15 @@
 * [Python Testing](http://pythontesting.net/books/python-testing-ebook/)
 * [Test-Driven Development with Python](http://www.obeythetestinggoat.com/)
 
+
+## Other resources
+
+* [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
+* [Google Style Guide](https://code.google.com/p/google-styleguide/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [OWASP](https://www.owasp.org/) - Open Web Application Security Project
+* [Source Making](https://sourcemaking.com/)
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
+* [The Linux Documentation Project](http://www.tldp.org/)
+* [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
+
