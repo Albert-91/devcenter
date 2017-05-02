@@ -72,3 +72,9 @@
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Thoughts on RESTful API Design](http://restful-api-design.readthedocs.org/en/latest/)
 
+
+## Manifesto
+
+* [Agile Manifesto](http://agilemanifesto.org/)
+* [Reactive Manifesto](http://www.reactivemanifesto.org/)
+* [The Twelve-Factor App](https://12factor.net/)
