@@ -34,6 +34,12 @@
 * [Vincent Driessen](http://nvie.com/)
 
 
+## Podcasts
+
+* [DevTalk](http://devtalk.pl/)
+* [Ostra Piła](https://ostrapila.pl/)
+
+
 ## Books
 
 * [The Zen Programmer](http://www.zenprogrammer.org/)
@@ -78,3 +84,4 @@
 * [Agile Manifesto](http://agilemanifesto.org/)
 * [Reactive Manifesto](http://www.reactivemanifesto.org/)
 * [The Twelve-Factor App](https://12factor.net/)
+
