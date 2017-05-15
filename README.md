@@ -51,9 +51,9 @@
 
 ### Python
 
-* [Practice Makes Python](http://practicemakespython.com/)
 * [Python Swallowed Whole: Core Developers Define Python](https://www.bookdepository.com/Python-Swallowed-Whole-Steve-Holden/9780137075119)
 * [The Hacker's Guide to Python](https://thehackerguidetopython.com/)
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
 * [Writing Idiomatic Python](http://www.jeffknupp.com/writing-idiomatic-python-ebook/)
 
 ### Testing
@@ -69,7 +69,6 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [OWASP](https://www.owasp.org/) - Open Web Application Security Project
 * [Source Making](https://sourcemaking.com/)
-* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
 
