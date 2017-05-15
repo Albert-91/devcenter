@@ -62,20 +62,27 @@
 * [Test-Driven Development with Python](http://www.obeythetestinggoat.com/)
 
 
-## Other resources
+## On-line resources
 
 * [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
 * [Google Style Guide](https://code.google.com/p/google-styleguide/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-* [OWASP](https://www.owasp.org/) - Open Web Application Security Project
 * [Source Making](https://sourcemaking.com/)
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
+
+### JavaScript
+
+* [JavaScript.info](http://javascript.info/) - The Modern JavaScript Tutorial
 
 ### REST API
 
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Thoughts on RESTful API Design](http://restful-api-design.readthedocs.org/en/latest/)
+
+### Security
+
+* [OWASP](https://www.owasp.org/) - Open Web Application Security Project
 
 
 ## Manifesto
