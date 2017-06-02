@@ -28,6 +28,7 @@
 * [Joel on Software](https://www.joelonsoftware.com)
 * [Kent Beck](http://www.threeriversinstitute.org/blog/)
 * [Martin Fowler](http://martinfowler.com/)
+* [Michael Feathers](https://michaelfeathers.silvrback.com/)
 * [Randall Degges](http://www.rdegges.com/) - Random Thoughts of a Happy Programmer.
 * [Revolution Systems Blog](http://www.revsys.com/blog/)
 * [Robert C. Martin](http://blog.8thlight.com/uncle-bob/archive.html)
