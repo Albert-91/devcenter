@@ -25,6 +25,7 @@
 * [Everything I know about Python...](http://www.jeffknupp.com/)
 * [Inside the Head of PyDanny](http://pydanny.com/)
 * [Jacob Kaplan-Moss](http://jacobian.org/writing/) - Blog one of Django core contributors.
+* [Joel on Software](https://www.joelonsoftware.com)
 * [Kent Beck](http://www.threeriversinstitute.org/blog/)
 * [Martin Fowler](http://martinfowler.com/)
 * [Randall Degges](http://www.rdegges.com/) - Random Thoughts of a Happy Programmer.
