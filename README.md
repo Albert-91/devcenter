@@ -26,12 +26,8 @@
 * [Inside the Head of PyDanny](http://pydanny.com/)
 * [Jacob Kaplan-Moss](http://jacobian.org/writing/) - Blog one of Django core contributors.
 * [Joel on Software](https://www.joelonsoftware.com)
-* [Kent Beck](http://www.threeriversinstitute.org/blog/)
-* [Martin Fowler](http://martinfowler.com/)
-* [Michael Feathers](https://michaelfeathers.silvrback.com/)
 * [Randall Degges](http://www.rdegges.com/) - Random Thoughts of a Happy Programmer.
 * [Revolution Systems Blog](http://www.revsys.com/blog/)
-* [Robert C. Martin](http://blog.8thlight.com/uncle-bob/archive.html)
 * [Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/)
 * [Vincent Driessen](http://nvie.com/)
 
@@ -85,6 +81,23 @@
 ### Security
 
 * [OWASP](https://www.owasp.org/) - Open Web Application Security Project
+
+
+## People
+
+* [Craig Larman](http://www.craiglarman.com)
+* [Erich Gamma](https://twitter.com/erichgamma)
+* [Kent Beck](https://twitter.com/kentbeck)
+* [Martin Fowler](http://martinfowler.com/)
+* [Michael Feathers](https://michaelfeathers.silvrback.com/)
+* [Robert C. Martin](http://blog.8thlight.com/uncle-bob/archive.html)
+
+### Python World
+
+* [Brandon Rhodes](http://rhodesmill.org/brandon/)
+* [David Beazley](http://www.dabeaz.com/)
+* [Mark Lutz](http://learning-python.com/)
+* [Raymond Hettinger](http://pyvideo.org/speaker/raymond-hettinger.html)
 
 
 ## Manifesto
