@@ -64,7 +64,7 @@
 
 * [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
 * [Google Style Guide](https://code.google.com/p/google-styleguide/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
 * [Source Making](https://sourcemaking.com/)
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
