@@ -60,6 +60,19 @@
 * [Test-Driven Development with Python](http://www.obeythetestinggoat.com/)
 
 
+## Web API
+
+* [Core API](http://www.coreapi.org/)
+* [JSON API](http://jsonapi.org/)
+* [JSON Web Token](https://jwt.io/)
+
+### Schema Formats
+
+* [Core JSON](http://www.coreapi.org/specification/encoding/#core-json)
+* [JSON Schema](http://json-schema.org/)
+* [Open API](https://www.openapis.org/)
+
+
 ## On-line resources
 
 * [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
@@ -72,11 +85,6 @@
 ### JavaScript
 
 * [JavaScript.info](http://javascript.info/) - The Modern JavaScript Tutorial
-
-### REST API
-
-* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [Thoughts on RESTful API Design](http://restful-api-design.readthedocs.org/en/latest/)
 
 ### Security
 
