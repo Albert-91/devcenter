@@ -1,5 +1,11 @@
 # devcenter
 
+## Environment
+
+* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+* [Tilix](https://gnunn1.github.io/tilix-web://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3
+
+
 ## Docs
 
 * [Write the Docs](http://www.writethedocs.org/guide/) - How to write a good documentation.
