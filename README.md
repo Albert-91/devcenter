@@ -85,6 +85,7 @@
 * [Google Style Guide](https://code.google.com/p/google-styleguide/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
 * [Source Making](https://sourcemaking.com/)
+* [The Jargon File](http://www.catb.org/~esr/jargon/)
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
 
