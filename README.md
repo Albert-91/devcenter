@@ -3,6 +3,7 @@
 ## Environment
 
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+* [elementary OS](https://elementary.io/) - A fast and open replacement for Windows and macOS
 * [Tilix](https://gnunn1.github.io/tilix-web://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3
 
 
