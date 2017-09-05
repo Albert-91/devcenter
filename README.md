@@ -37,6 +37,32 @@
 * [Vincent Driessen](http://nvie.com/)
 
 
+## Coding Challenges Websites
+
+* [CodeAbbey](http://www.codeabbey.com/)
+* [CodeChef](https://www.codechef.com/)
+* [CodeEval](https://www.codeeval.com/)
+* [Coderbyte](https://coderbyte.com/)
+* [Codewars](https://www.codewars.com/)
+* [Codility](https://codility.com/)
+* [CodinGame](https://www.codingame.com/start)
+* [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/)
+* [Exercism](http://exercism.io/)
+* [Geektastic](https://geektastic.com/)
+* [HackerEarth](https://www.hackerearth.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [Kaggle](https://www.kaggle.com/)
+* [LeetCode](https://leetcode.com/)
+* [Practice Python](http://www.practicepython.org/)
+* [Project Euler](https://projecteuler.net/)
+* [Python Challenge](http://www.pythonchallenge.com/)
+* [Rosetta Code](http://rosettacode.org/)
+* [Rozwal.to](https://rozwal.to/)
+* [SkillValue](https://skillvalue.com/)
+* [SPOJ](http://www.spoj.com/)
+* [Topcoder](https://www.topcoder.com/)
+
+
 ## Podcasts
 
 * [DevTalk](http://devtalk.pl/)
