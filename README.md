@@ -80,6 +80,8 @@
 
 ## On-line resources
 
+* [Awesome Django](http://awesome-django.com/) - A curated list of awesome Django apps, projects and resources.
+* [Awesome Python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
 * [Google Style Guide](https://code.google.com/p/google-styleguide/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
