@@ -145,6 +145,7 @@
 ## Manifesto
 
 * [Agile Manifesto](http://agilemanifesto.org/)
+* [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 * [Reactive Manifesto](http://www.reactivemanifesto.org/)
 * [The Twelve-Factor App](https://12factor.net/)
 
