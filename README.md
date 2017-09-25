@@ -132,7 +132,7 @@
 * [Kent Beck](https://twitter.com/kentbeck)
 * [Martin Fowler](http://martinfowler.com/)
 * [Michael Feathers](https://michaelfeathers.silvrback.com/)
-* [Robert C. Martin](http://blog.8thlight.com/uncle-bob/archive.html)
+* [Robert C. Martin](http://cleancoder.com/)
 
 ### Python World
 
