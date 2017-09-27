@@ -130,6 +130,7 @@
 * [Craig Larman](http://www.craiglarman.com)
 * [Erich Gamma](https://twitter.com/erichgamma)
 * [Kent Beck](https://twitter.com/kentbeck)
+* [Kevlin Henney](http://curbralan.com/)
 * [Martin Fowler](http://martinfowler.com/)
 * [Michael Feathers](https://michaelfeathers.silvrback.com/)
 * [Robert C. Martin](http://cleancoder.com/)
