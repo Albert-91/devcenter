@@ -150,5 +150,6 @@
 * [Agile Manifesto](http://agilemanifesto.org/)
 * [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 * [Reactive Manifesto](http://www.reactivemanifesto.org/)
+* [The Extensible Web Manifesto](https://extensiblewebmanifesto.org/)
 * [The Twelve-Factor App](https://12factor.net/)
 
