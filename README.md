@@ -13,19 +13,13 @@
 ## Git
 
 * [Git How To: Guided Git Tutorial](https://githowto.com/)
-* [Git Manual Page](https://git.github.io/htmldocs/git.html)
 * [Git Official Site](http://git-scm.com/)
 * [Git Ready](http://gitready.com/)
-* [Git Reference](http://gitref.org/)
-* [GitHub Glossary](https://help.github.com/articles/github-glossary/)
-* [GitHub Training and Resources](https://services.github.com/)
-* [Pro Git](https://git-scm.com/book)
 
 
 ## Blogs
 
 * [And then it crashed](http://blog.etianen.com/) - Programming the web with Python, Django and Javascript.
-* [Charles Leifer](http://charlesleifer.com/blog/)
 * [Coding Horror](http://blog.codinghorror.com/) - Programming and human factors.
 * [Everything I know about Python...](http://www.jeffknupp.com/)
 * [Inside the Head of PyDanny](http://pydanny.com/)
@@ -61,12 +55,6 @@
 * [SkillValue](https://skillvalue.com/)
 * [SPOJ](http://www.spoj.com/)
 * [Topcoder](https://www.topcoder.com/)
-
-
-## Podcasts
-
-* [DevTalk](http://devtalk.pl/)
-* [Ostra Piła](https://ostrapila.pl/)
 
 
 ## Books
@@ -107,16 +95,18 @@
 ## On-line resources
 
 * [Apple Developer](https://developer.apple.com/)
-* [Awesome Django](http://awesome-django.com/) - A curated list of awesome Django apps, projects and resources.
-* [Awesome Python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources.
-* [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
 * [Google Developers](https://developers.google.com/)
-* [Google Style Guide](https://code.google.com/p/google-styleguide/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+* [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
+* [Google Style Guide](https://code.google.com/p/google-styleguide/)
 * [Source Making](https://sourcemaking.com/)
 * [The Jargon File](http://www.catb.org/~esr/jargon/)
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
+
+* [Awesome Django](http://awesome-django.com/) - A curated list of awesome Django apps, projects and resources.
+* [Awesome Python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources.
 
 ### JavaScript
 
@@ -129,20 +119,17 @@
 
 ## People
 
+* [Brandon Rhodes](http://rhodesmill.org/brandon/)
 * [Craig Larman](http://www.craiglarman.com)
+* [David Beazley](http://www.dabeaz.com/)
 * [Erich Gamma](https://twitter.com/erichgamma)
 * [Kent Beck](https://twitter.com/kentbeck)
 * [Kevlin Henney](http://curbralan.com/)
+* [Mark Lutz](http://learning-python.com/)
 * [Martin Fowler](http://martinfowler.com/)
 * [Michael Feathers](https://michaelfeathers.silvrback.com/)
-* [Robert C. Martin](http://cleancoder.com/)
-
-### Python World
-
-* [Brandon Rhodes](http://rhodesmill.org/brandon/)
-* [David Beazley](http://www.dabeaz.com/)
-* [Mark Lutz](http://learning-python.com/)
 * [Raymond Hettinger](http://pyvideo.org/speaker/raymond-hettinger.html)
+* [Robert C. Martin](http://cleancoder.com/)
 
 
 ## Manifesto
