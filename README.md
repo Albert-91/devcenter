@@ -56,29 +56,6 @@
 * [SPOJ](http://www.spoj.com/)
 * [Topcoder](https://www.topcoder.com/)
 
-
-## Books
-
-* [The Zen Programmer](http://www.zenprogrammer.org/)
-
-### Django
-
-* [High Performance Django](https://highperformancedjango.com/)
-* [Two Scoops of Django](https://www.twoscoopspress.com/)
-
-### Python
-
-* [Python Swallowed Whole: Core Developers Define Python](https://www.bookdepository.com/Python-Swallowed-Whole-Steve-Holden/9780137075119)
-* [The Hacker's Guide to Python](https://thehackerguidetopython.com/)
-* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
-* [Writing Idiomatic Python](http://www.jeffknupp.com/writing-idiomatic-python-ebook/)
-
-### Testing
-
-* [Python Testing](http://pythontesting.net/books/python-testing-ebook/)
-* [Test-Driven Development with Python](http://www.obeythetestinggoat.com/)
-
-
 ## Web API
 
 * [Core API](http://www.coreapi.org/)
@@ -101,6 +78,7 @@
 * [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
 * [Google Style Guide](https://code.google.com/p/google-styleguide/)
 * [Source Making](https://sourcemaking.com/)
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
 * [The Jargon File](http://www.catb.org/~esr/jargon/)
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
