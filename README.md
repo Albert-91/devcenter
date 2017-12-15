@@ -84,6 +84,9 @@
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
 
+* [DDD Community](http://dddcommunity.org/)
+* [DDD Resources](https://domainlanguage.com/ddd/)
+
 * [Awesome Django](http://awesome-django.com/) - A curated list of awesome Django apps, projects and resources.
 * [Awesome Python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources.
 
