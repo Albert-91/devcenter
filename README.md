@@ -27,7 +27,6 @@
 * [Randall Degges](http://www.rdegges.com/) - Random Thoughts of a Happy Programmer.
 * [Revolution Systems Blog](http://www.revsys.com/blog/)
 * [Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/)
-* [Vincent Driessen](http://nvie.com/)
 
 
 ## Coding Challenges Websites
