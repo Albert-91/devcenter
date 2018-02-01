@@ -20,7 +20,6 @@
 ## Blogs
 
 * [And then it crashed](http://blog.etianen.com/) - Programming the web with Python, Django and Javascript.
-* [Coding Horror](http://blog.codinghorror.com/) - Programming and human factors.
 * [Everything I know about Python...](http://www.jeffknupp.com/)
 * [Inside the Head of PyDanny](http://pydanny.com/)
 * [Jacob Kaplan-Moss](http://jacobian.org/writing/) - Blog one of Django core contributors.
@@ -105,6 +104,7 @@
 * [Craig Larman](http://www.craiglarman.com)
 * [David Beazley](http://www.dabeaz.com/)
 * [Erich Gamma](https://twitter.com/erichgamma)
+* [Jeff Atwood](http://blog.codinghorror.com/)
 * [Kent Beck](https://twitter.com/kentbeck)
 * [Kevlin Henney](http://curbralan.com/)
 * [Mark Lutz](http://learning-python.com/)
