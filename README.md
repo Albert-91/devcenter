@@ -35,6 +35,15 @@
 * [Revolution Systems Blog](http://www.revsys.com/blog/)
 * [Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/)
 
+## Learning Platforms
+
+* [Codecademy](https://www.codecademy.com)
+* [Coursera](https://www.coursera.org)
+* [Khan Academy](https://www.khanacademy.org)
+* [Pluralsight](https://www.pluralsight.com)
+* [Safari, the world's most comprehensive tech & business learning platform](https://www.safaribooksonline.com)
+* [Udacity](https://eu.udacity.com)
+* [Udemy](https://www.udemy.com)
 
 ## Coding Challenges Websites
 
