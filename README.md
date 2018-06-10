@@ -108,6 +108,7 @@
 * [Awesome Django](http://awesome-django.com/) - A curated list of awesome Django apps, projects and resources.
 * [Awesome Python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [Everything curl](https://ec.haxx.se) - Extensive guide to everything there is to know about curl, the project, the command-line tool, the library, how everything started and how it came to be what it is today
+* [O’Reilly Media - Technology and business training, knowledge, and insight, delivered by experts and innovators](https://www.oreilly.com)
 
 ### JavaScript
 
