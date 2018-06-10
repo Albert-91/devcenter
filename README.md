@@ -103,6 +103,12 @@
 
 * [OWASP](https://www.owasp.org/) - Open Web Application Security Project
 
+## Web
+
+* [HTTP Working Group](https://httpwg.org)
+* [Internet Engineering Task Force (IETF)](https://www.ietf.org)
+* [Web Hypertext Application Technology Working Group](https://whatwg.org)
+* [World Wide Web Consortium (W3C)](https://www.w3.org)
 
 ## People
 
