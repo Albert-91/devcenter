@@ -125,6 +125,9 @@
 * [Web Hypertext Application Technology Working Group](https://whatwg.org)
 * [World Wide Web Consortium (W3C)](https://www.w3.org)
 
+* [webcomponents.org](https://www.webcomponents.org)
+* [websocket.org](http://websocket.org)
+
 ## People
 
 * [Brandon Rhodes](http://rhodesmill.org/brandon/)
