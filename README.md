@@ -10,6 +10,13 @@
 * [Write the Docs](http://www.writethedocs.org/guide/) - How to write a good documentation.
 
 
+## Cheatsheets
+
+* [HTTP Status Codes Decision Diagram](https://www.loggly.com/blog/http-status-code-diagram/)
+* [HTTP Status Codes](https://httpstatuses.com) - Easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
+* [SS64 | Command line reference](https://ss64.com)
+
+
 ## Git
 
 * [Git How To: Guided Git Tutorial](https://githowto.com/)
