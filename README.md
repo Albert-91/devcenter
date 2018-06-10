@@ -82,7 +82,6 @@
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 * [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
-* [Google Style Guide](https://code.google.com/p/google-styleguide/)
 * [Source Making](https://sourcemaking.com/)
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
 * [The Jargon File](http://www.catb.org/~esr/jargon/)
