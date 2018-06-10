@@ -17,6 +17,14 @@
 * [SS64 | Command line reference](https://ss64.com)
 
 
+## Books
+
+* [Book Depository](https://www.bookdepository.com)
+* [Goal Kicker](https://goalkicker.com) - The best of Stack Overflow Documentation compiled into easy to read PDF books
+* [Manning](https://www.manning.com)
+* [The Pragmatic Bookshelf](https://pragprog.com)
+
+
 ## Git
 
 * [Git How To: Guided Git Tutorial](https://githowto.com/)
