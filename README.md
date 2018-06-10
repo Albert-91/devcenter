@@ -97,19 +97,17 @@
 * [Apple Developer](https://developer.apple.com/)
 * [Google Developers](https://developers.google.com/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
-
 * [FOLDOC](http://foldoc.org/) - Free On-Line Dictionary of Computing
 * [Source Making](https://sourcemaking.com/)
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/)
 * [The Jargon File](http://www.catb.org/~esr/jargon/)
 * [The Linux Documentation Project](http://www.tldp.org/)
 * [Use The Index, Luke!](http://use-the-index-luke.com/) - A guide to database performance for developers
-
 * [DDD Community](http://dddcommunity.org/)
 * [DDD Resources](https://domainlanguage.com/ddd/)
-
 * [Awesome Django](http://awesome-django.com/) - A curated list of awesome Django apps, projects and resources.
 * [Awesome Python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources.
+* [Everything curl](https://ec.haxx.se) - Extensive guide to everything there is to know about curl, the project, the command-line tool, the library, how everything started and how it came to be what it is today
 
 ### JavaScript
 
