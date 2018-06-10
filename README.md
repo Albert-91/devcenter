@@ -97,6 +97,7 @@
 ### JavaScript
 
 * [JavaScript.info](http://javascript.info/) - The Modern JavaScript Tutorial
+* [Promises](https://www.promisejs.org)
 
 ### Security
 
