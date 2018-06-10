@@ -111,6 +111,7 @@
 * [O’Reilly Media - Technology and business training, knowledge, and insight, delivered by experts and innovators](https://www.oreilly.com)
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 * [A pattern language for microservices](http://microservices.io/patterns/index.html)
+* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
 ### JavaScript
 
