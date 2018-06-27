@@ -34,7 +34,6 @@
 
 ## Blogs
 
-* [And then it crashed](http://blog.etianen.com/) - Programming the web with Python, Django and Javascript.
 * [Everything I know about Python...](http://www.jeffknupp.com/)
 * [Inside the Head of PyDanny](http://pydanny.com/)
 * [Jacob Kaplan-Moss](http://jacobian.org/writing/) - Blog one of Django core contributors.
