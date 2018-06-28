@@ -22,6 +22,7 @@
 * [Book Depository](https://www.bookdepository.com)
 * [Goal Kicker](https://goalkicker.com) - The best of Stack Overflow Documentation compiled into easy to read PDF books
 * [Manning](https://www.manning.com)
+* [Packt Publishing](https://www.packtpub.com)
 * [The Pragmatic Bookshelf](https://pragprog.com)
 
 
