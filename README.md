@@ -115,7 +115,11 @@
 
 ### JavaScript
 
+* [ECMAScript 6 - New Features: Overview & Comparison](http://es6-features.org/)
+* [ECMAScript 6 features overview](https://github.com/lukehoban/es6features)
+* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 * [JavaScript.info](http://javascript.info/) - The Modern JavaScript Tutorial
+* [JavaScript LaunchPad](https://simpleprogrammer.com/products/javascript-launchpad/)
 * [Promises](https://www.promisejs.org)
 
 ### Security
