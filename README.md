@@ -153,6 +153,38 @@
 * [Robert C. Martin](http://cleancoder.com/)
 
 
+## YouTube Channels
+
+* [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+* [David Beazley](https://www.youtube.com/channel/UCbNpPBMvCHr-TeJkkezog7Q)
+* [GynvaelColdwind](https://www.youtube.com/channel/UCjS2aGCvsnhExcWRAI8T4Pw)
+* [Pasja informatyki](https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw)
+
+### Conferences
+
+* [Boiling Frogs pl](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [confiturapl](https://www.youtube.com/channel/UCkVjQGf_e0JmlonPMS4VNXQ)
+* [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
+* [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
+* [Django Under The Hood](https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw)
+* [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw)
+* [EuroPython Conference](https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q)
+* [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+* [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
+* [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
+* [PyWaw](https://www.youtube.com/channel/UC7WRh9E83r5ZwSp_VV4e3uQ)
+* [Warsaw JUG](https://www.youtube.com/channel/UC2coGyxf5x_CzJ3l4F-N-Sw/featured)
+
+### PyCons
+
+* [PyCon 2014](https://www.youtube.com/channel/UCFDHJGm0IxH9uwcIHfR72yg)
+* [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ)
+* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
+* [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
+* [PyCon PL](https://www.youtube.com/channel/UChSapCUgd_L5nBWIqWucnnQ)
+
+
 ## Manifesto
 
 * [Agile Manifesto](http://agilemanifesto.org/)
