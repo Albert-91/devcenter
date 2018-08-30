@@ -35,7 +35,6 @@
 
 ## Blogs
 
-* [Everything I know about Python...](http://www.jeffknupp.com/)
 * [Inside the Head of PyDanny](http://pydanny.com/)
 * [Jacob Kaplan-Moss](http://jacobian.org/writing/) - Blog one of Django core contributors.
 * [Joel on Software](https://www.joelonsoftware.com)
