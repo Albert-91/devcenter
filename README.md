@@ -191,5 +191,6 @@
 * [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 * [Reactive Manifesto](http://www.reactivemanifesto.org/)
 * [The Extensible Web Manifesto](https://extensiblewebmanifesto.org/)
+* [The Principles of Chaos Engineering](http://principlesofchaos.org/)
 * [The Twelve-Factor App](https://12factor.net/)
 
