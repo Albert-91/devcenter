@@ -46,6 +46,7 @@
 
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
+* [DataCamp](https://www.datacamp.com)
 * [Khan Academy](https://www.khanacademy.org)
 * [Pluralsight](https://www.pluralsight.com)
 * [Safari, the world's most comprehensive tech & business learning platform](https://www.safaribooksonline.com)
